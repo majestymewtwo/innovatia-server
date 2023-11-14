@@ -5,7 +5,7 @@ const GameOfThreads = require("./game-of-threats");
 const InkAndInsight = require("./ink-and-insight");
 const PixelPerfect = require("./pixel-perfect");
 const PopTopia = require("./pop-topia");
-const Shippuden = require("./shippuden");
+const SuperheroShippuden = require("./shippuden");
 
 module.exports = {
   DesignDerbies,
@@ -13,5 +13,5 @@ module.exports = {
   InkAndInsight,
   PixelPerfect,
   PopTopia,
-  Shippuden,
+  SuperheroShippuden,
 };

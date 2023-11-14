@@ -27,6 +27,6 @@ const shippudenSchema = new mongoose.Schema({
   memberThreeCollegeName: String,
 });
 
-const Shippuden = mongoose.model("Shippuden", shippudenSchema);
+const SuperheroShippuden = mongoose.model("Shippuden", shippudenSchema);
 
-module.exports = Shippuden;
+module.exports = SuperheroShippuden;
